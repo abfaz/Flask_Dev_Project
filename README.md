@@ -17,7 +17,7 @@ This project is a simple Flask web application that provides two main functional
 ## Key Features:
 
   - **Regex Testing**: Users can input a test string and a regex pattern to see real-time results of matched substrings.
-  - 
+  
   - **Email Validation**: Instantly validates email addresses for proper formatting.
-  - 
+   
   - **User Interface**: Clean and user-friendly design for an intuitive user experience.
